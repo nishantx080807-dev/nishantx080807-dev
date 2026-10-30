@@ -51,7 +51,6 @@ Principles:
 
 ## Selected Work
 
-- [MediAssist AI](https://github.com/nishantx080807-dev/RAG_BASED_HEATHCARE--AI_CHAT-BOX) — a document-grounded healthcare chat interface with an evidence-first workflow.
 - [MediQuery AI](https://github.com/nishantx080807-dev/MediQuery-AI) — a local-first RAG architecture concept using n8n, Ollama, and Qdrant.
 - [Breast Cancer EDA](https://github.com/nishantx080807-dev/Breast-cancer-eda) — reproducible exploratory analysis of the UCI diagnostic dataset.
 
