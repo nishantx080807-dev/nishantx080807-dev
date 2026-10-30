@@ -1,16 +1,85 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**nishantx080807-dev/nishantx080807-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# NISHANT
 
-Here are some ideas to get you started:
+### Building practical AI systems and thoughtful interfaces
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## Current Path
+
+```text
+Frontend foundations
+      │
+      ▼
+Data analysis
+      │
+      ▼
+Retrieval-augmented generation
+      │
+      ▼
+Local-first AI workflows
+      │
+      ▼
+Reliable product experiences
+```
+
+---
+
+## Focus
+
+```yaml
+Building:
+  - healthcare-focused AI prototypes
+  - document-grounded retrieval workflows
+  - clear, responsive product interfaces
+
+Exploring:
+  - local LLMs and citations
+  - evaluation and refusal quality
+  - FastAPI, React, TypeScript, Python
+
+Principles:
+  - make the evidence visible
+  - keep privacy boundaries explicit
+  - ship small, learn from real use
+```
+
+---
+
+## Selected Work
+
+- [MediAssist AI](https://github.com/nishantx080807-dev/RAG_BASED_HEATHCARE--AI_CHAT-BOX) — a document-grounded healthcare chat interface with an evidence-first workflow.
+- [MediQuery AI](https://github.com/nishantx080807-dev/MediQuery-AI) — a local-first RAG architecture concept using n8n, Ollama, and Qdrant.
+- [Breast Cancer EDA](https://github.com/nishantx080807-dev/Breast-cancer-eda) — reproducible exploratory analysis of the UCI diagnostic dataset.
+
+---
+
+## Stack
+
+```text
+Languages   Python · TypeScript · JavaScript
+AI / Data   RAG · Ollama · Qdrant · Pandas · exploratory analysis
+Web         React · Vite · FastAPI · Streamlit · Tailwind CSS
+Workflow    Git · Docker · n8n
+```
+
+---
+
+## Progress
+
+```text
+✓ frontend prototypes with clear interaction states
+✓ reproducible exploratory analysis
+✓ healthcare AI concepts with explicit safety boundaries
+→ connect local retrieval workflows end to end
+→ add evaluation fixtures and citation checks
+```
+
+---
+
+<p align="center">
+  <i>Learning in public. Building with intent.</i>
+</p>
